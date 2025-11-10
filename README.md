@@ -33,8 +33,7 @@ where students attempted the problem during a meeting and I presented the soluti
 ## Future plans
 
 I plan to:
-- Expand this set to include problems motivated by elliptic curve arithmetic and local–global principles.  
-- Add a LaTeX source file for each problem for easier editing and typesetting.  
+- Add more problems as I come up with them.  
 
 ---
 
